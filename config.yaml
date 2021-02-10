@@ -55,7 +55,7 @@ languages:
           post: ''
           pre: <i class='fab fa-github fa-fw'></i>
           title: GitHub
-          url: https://github.com/upagge/ublogger
+          url: https://github.com/xiaochi-liu
           weight: 6
     paginate: 12
     params:
@@ -72,13 +72,13 @@ languages:
           enable: yes
           paginate: 6
         profile:
-          avatarURL: /images/avatar.png
+          avatarURL: /images/xiaochi.png
           disclaimer: ''
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: A Clean, Elegant but Advanced Hugo Theme
-          title: uBlogger | Hugo Theme
+          subtitle: Machine Learning & Geospatial Analysis, Environmental & Public Health, R Markdown
+          title: Xiaochi Liu
           typeit: no
         rss: 10
       keywords:
@@ -108,27 +108,27 @@ languages:
         Devto: ''
         Douban: ''
         Dribbble: ''
-        Email: xxxx@xxxx.com
-        Facebook: xxxx
+        Email: xiaochi.liu@students.mq.edu.au
+        Facebook: ''
         Fivehundredpx: ''
         Flickr: ''
         Foursquare: ''
         FreeCodeCamp: ''
-        GitHub: xxxx
+        GitHub: xiaochi-liu
         Gitea: ''
         Gitlab: ''
         Goodreads: ''
         Googlescholar: ''
         Hackernews: ''
-        Instagram: xxxx
+        Instagram: ''
         Jsfiddle: ''
         Keybase: ''
         Kickstarter: ''
         Lastfm: ''
         Linkedin: ''
-        Mastodon:
-          id: '@xxxx'
-          prefix: https://mastodon.technology/
+        # Mastodon:
+        #   id: '@xxxx'
+        #   prefix: https://mastodon.technology/
         Matrix: ''
         Medium: ''
         Mix: ''
@@ -137,7 +137,7 @@ languages:
         Paypal: ''
         Pinterest: ''
         Quora: ''
-        RSS: yes
+        RSS: no
         Reddit: ''
         Researchgate: ''
         Skype: ''
@@ -148,11 +148,11 @@ languages:
         Stackoverflow: ''
         Steam: ''
         Strava: ''
-        Telegram: xxxx
+        Telegram: ''
         Thingiverse: ''
         Tumblr: ''
         Twitch: ''
-        Twitter: xxxx
+        Twitter: XiaochiLiu
         VK: ''
         Vine: ''
         Weibo: ''
@@ -162,7 +162,7 @@ languages:
         Xing: ''
         Youtubechannel: ''
         Youtubecustom: ''
-        Youtubelegacy: xxxx
+        Youtubelegacy: ''
         Zhihu: ''
     weight: 1
 params:
@@ -303,10 +303,9 @@ params:
     rssFullText: no
     ruby: yes
     seo:
-      images: []
+      images: ["/images/xiaochi.png"]
       publisher:
-        #logoUrl: /images/avatar.png
-        logoUrl: /images/xiaochi.png
+        logoUrl: /images/avatar.png
         name: xxxx
     share:
       Baidu: no
