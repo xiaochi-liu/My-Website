@@ -1,7 +1,7 @@
 baseURL: /
 defaultContentLanguage: en
 theme: uBlogger
-title: uBlogger
+title: Xiaochi's Blog
 enableRobotsTXT: yes
 enableGitInfo: yes
 enableEmoji: yes
@@ -262,7 +262,7 @@ params:
     mobileMode: auto
     title:
       logo: ''
-      name: uBlogger
+      name: Xiaochi's Blog
       post: ''
       pre: <i class='fas fa-pencil-alt fa-fw'></i>
       typeit: no
@@ -305,7 +305,8 @@ params:
     seo:
       images: []
       publisher:
-        logoUrl: /images/avatar.png
+        #logoUrl: /images/avatar.png
+        logoUrl: /images/xiaochi.png
         name: xxxx
     share:
       Baidu: no
