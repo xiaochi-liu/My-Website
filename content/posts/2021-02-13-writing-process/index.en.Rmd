@@ -1,0 +1,81 @@
+---
+title: Writing Process
+author: Xiaochi Liu
+date: '2021-02-13'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - Scientific Writing
+subtitle: ''
+lastmod: '2021-02-13T22:28:04+11:00'
+description: ''
+summary: "Writing process for publication"
+theme: classic
+upd: ''
+authorComment: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+resources:
+  - name: featured-image
+    src: featured-image.jpg
+# featuredImage: 'featured-image.jpg'
+# featuredImagePreview: 'featured-image-preview.jpg'
+# images:
+#   - ''
+toc: true
+math:
+  enable: yes
+lightgallery: no
+license: ''
+
+---
+
+
+
+## Prewriting
+
+Choose the journal
+
+Instructions to authors:
+
+* Are there word limits? Page limits?
+* Limits on the number of tables/figures?
+* Do you need to provide any other sections in addition to IMRAD?
+* Are their detailed instructions for each section?
+* Save and refer to these instructions often!
+
+Decide the authorship
+
+
+## Drafting
+
+Review the literature
+
+Outline or create bullet points
+
+Organise from general -> specific
+
+Start writing
+
+* Don't wait, just write!
+* **Snack writing**: writing little and often
+* Take the writing process one step at a time
+    - Separate into sections
+    - Leave blanks for parts you are unsure about
+    - Keep thinking of the overall purpose of the paper and its answer
+    - **Keep the momentum going**: your first draft is not written in stone it WILL change!
+    - **Keep track of your references**
+
+Get into the writing habit through regular writing
+
+* Establish a writing routine: make a schedule and stick to it
+
+Having trouble putting your thoughts into sentences?
+
+* **Organise your materials** (the most effective method for me)
+* Imitate model articles
+* Write simply
+* Use [sample sentence fragments](http://www.phrasebank.manchester.ac.uk/)
+* Write one step at a time
+* Set deadlines
