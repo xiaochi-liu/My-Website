@@ -296,7 +296,7 @@ params:
       blockLeftDelimiter: ''
       blockRightDelimiter: ''
       copyTex: yes
-      enable: no
+      enable: yes
       inlineLeftDelimiter: ''
       inlineRightDelimiter: ''
       mhchem: yes
@@ -382,7 +382,7 @@ markup:
     endLevel: 6
     startLevel: 2
 author:
-  name: upagge.en
+  name: Xiaochi Liu
 sitemap:
   changefreq: weekly
   filename: sitemap.xml

@@ -19,16 +19,14 @@ hiddenFromSearch: no
 resources:
   - name: featured-image
     src: featured-image.jpg
-# featuredImage: 'featured-image.jpg'
-# featuredImagePreview: 'featured-image-preview.jpg'
-# images:
-#   - ''
-toc: true
+
+toc:
+  enable: true
+  auto: true
 math:
   enable: yes
 lightgallery: no
 license: ''
-
 ---
 
 
