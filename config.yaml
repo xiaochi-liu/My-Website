@@ -55,7 +55,7 @@ languages:
           post: ''
           pre: <i class='fab fa-github fa-fw'></i>
           title: GitHub
-          url: https://github.com/xiaochi-liu
+          url: https://github.com/xiaochi-liu/My-Website
           weight: 6
     paginate: 12
     params:
