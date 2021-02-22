@@ -1,0 +1,171 @@
+---
+title: "Freewriting"
+author: "Xiaochi Liu"
+date: '2021-02-19'
+slug: []
+categories: 
+  - Scientific Writing
+tags: 
+  - Scientific Writing
+subtitle: ''
+description: ''
+summary: Write your science clearly, easly & with joy
+theme: classic
+upd: ''
+authorComment: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+resources:
+- name: featured-image
+  src: featured-image.png
+toc:
+  enable: yes
+math:
+  enable: yes
+lightgallery: no
+license: ''
+---
+
+
+Freewriting is an effective technique to shut down your inner censor and experience writing in the state of flow.
+The idea is to put down your thoughts as they arise, without evaluating them or caring for the language in which they get expressed.
+Such writing is efficient and highly enjoyable.
+Letting got of your expectations and judgements feels great.
+Moreover, it's easy to keep yourself focused as you are immersed in your thoughts, fully connected to the topic your are writing about.
+
+<!-- Why is freewriting so powerful? The state of flow can only be achieved when we merge with the topic of our focus and let go of everything else. -->
+<!-- It turns out this allows us to write extraordinary texts that are clear & vivid, easy to follow & understand. -->
+<!-- Peter Elbow, the godfater of freewriting, made the following observations: -->
+
+<!-- > If you want readers to breathe life into your writing so that they get a powerful experience from it, then you must breathe experience into your words as you write. -->
+<!-- I don't know why it should be the case that if you experience what you are writing about - if you go to the bamboo - it increases the chances of the reader's experiencing the bamboo. -->
+<!-- But that's the way it seems to work. -->
+
+
+
+
+## How to freewrite
+
+**Basic technique**
+
+* Write without stopping for 5 - 15 minutes.
+
+* No need to rush: write as fast or as slowly as is comfortable for you, just keep the writing fluent.
+
+* Don't correct types.
+
+* Don't go back to read what you have written.
+
+* Let the words come out as they wish - don't judge or evaluate them.
+
+* What you write is strictly private, so relax the control and allow your hands to write whatever they want.
+
+* If you get stuck and have nothing to write about, you can repeat the last word or type nonsense until an idea pops into your mind.
+
+* You can also reflect on the fact that you have nothing to write about (like "it's funny, but now my mind is blank, Why is it so?...") and let the thoughts unfold from there.
+
+* Posing questions without searching for answers usually triggers some thought.
+
+* The main point is really just to keep your hand or fingers moving, producing word by word.
+
+* Use [The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app)
+
+
+
+
+
+## Variations
+
+**Focused freewriting**
+
+* Set yourself a topic and try to stay on the topic as you freewrite.
+
+* When you catch yourself diverting away from the topic, just gently return to it again.
+
+* Stimulate your writing with an appropriate prompt. E.g., this figure shows...
+
+
+**Loop writing**
+
+1. Freewrite on a chosen topic for 5-10 minutes.
+
+2. Read the text you have written and mark up interesting ideas, sentences or phrases.
+
+3. Choose one of the marked-up massages as a topic/prompt for the next round of directed freewriting.
+
+4. Repeat this process 3-5 times (or until you are satisfied with the result). 
+
+
+
+
+
+
+## Benefits & applications
+
+1. **Warm-up & brain dump** Reduce procrastination at the beginning of your writing session or your work day by freewriting for 10 minutes.
+    - write down all the thoughts & todos swirling in your head
+    - clear your mind and prepare it for work
+    - contemplate about your next tasks and how to best approach them
+    
+2. **Write to think** Writing is a different mode of thinking.
+    - reduce the cognitive load of complex thinking
+    - often results in creative break-throughs
+    - follow your reasoning in detail and spot potential errors & gaps
+    
+3. **Find the right words for your ideas** Freewrite regularly in your lab book or research journal
+    - document your research activities
+    - reflect about the work of others
+    - ponder about open questions
+
+4. **Recycle your texts** When you freewrite about your research, you create the so-called transfer texts that can be recycled as building blocks in manuscripts and project reports.
+
+
+5. **Learn to write in an engaging & comprehensible way** With continued practice, the freewriting qualities will transfer into your regular writing as well.
+As a result, your scientific texts will be interesting to read and easy to understand.
+
+6. **Write faster with less struggle** Daily freewriting practice helps you develop healthy writing habits:
+    - no longer obsess about perfection or lose time with procrastination
+    - learn to sit down at your computer and write
+    - enjoy the writing process
+
+7. **Develop your (scientific) voice** Author's voice makes a text captivating.
+    - the specific choice of words,
+    - rhythm of the text
+    - punctuation
+    
+8. **Improve your active language skills** Regular freewriting is a great way to transfer some of your passive vocabulary into active use, expanding your language possibilities and increasing your fluency in speaking and writing. Feel free to write a word or two in your mother tongue or other language, if that's your mind is offering you.
+
+
+
+
+
+
+## Exercises & Writing prompts
+
+1. **Describe your scientific result**
+    - This figure shows ...
+    - I obtained the result in the following experiment/calculation/simulation ...
+    - The result implies/means ...
+    
+
+2. **Contemplate about an open question or unsolved problem**
+    - Recently, I am wondering ...
+    - I have hard time to understand ...
+
+3. **Reflect upon your writing**
+    - Use any quote or thought that intrigues you and sparks a reaction.
+    - Write down whatever comes to your mind when you read the quote.
+
+
+> You can't think yourself out of a writing block; you have to write yourself out of a thinking block.
+
+> --- John Rogers
+
+
+
+> I must write it all out, at any cost.
+Writing is thinking.
+It is more than living, for it is being conscious of living.
+
+> --- Anne Morrow Lindbergh
+
