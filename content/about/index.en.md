@@ -8,7 +8,7 @@ math:
 ---
 
 Interestingly, after watching the talk, [_Your Public Garden_](https://rstudio.com/resources/rstudioglobal-2021/your-public-garden/), given by Vicki Boykis on rstudio::global 2021, I suddenly got a huge motivation to build my blog website.
-I'd like to record my learning experience in this blog, including the notes from workshops and courses I attended, solutions for debugging codes in R and R Markdown, and some other topics. 
+I'd like to record my learning experience in this blog, including what I learned from workshops/trainings I attended, how I debugged the codes in R and R Markdown, and other topics related to my research life.
 Hope this is a good way to nurture my writing habit, and push myself to write, think, and learn.
 
 Currently, I'm doing my PhD in Environmental Sciences at Macquarie University, Sydney, Australia. 
