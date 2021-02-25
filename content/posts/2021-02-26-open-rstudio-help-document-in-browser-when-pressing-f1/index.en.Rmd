@@ -1,5 +1,5 @@
 ---
-title: Open RStudio help document in browser when pressing F1
+title: Open RStudio help document in browser when pressing F1 button
 author: Xiaochi Liu
 date: '2021-02-26'
 slug: []
