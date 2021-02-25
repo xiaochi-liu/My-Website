@@ -1,0 +1,42 @@
+---
+title: Open RStudio help document in browser when pressing F1
+author: Xiaochi Liu
+date: '2021-02-26'
+slug: []
+categories:
+  - Debugging
+tags:
+  - Debugging
+subtitle: ''
+description: ''
+summary: Better programming experience with RStudio
+theme: classic
+upd: ''
+authorComment: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+resources:
+- name: featured-image
+  src: featured-image.png
+toc:
+  enable: yes
+math:
+  enable: yes
+lightgallery: no
+license: ''
+---
+
+On Mac:
+
+1. open `/Applications/RStudio.app/Contents/Resources/R/Options.R`
+
+2. comment out the entry as follows:
+
+```r
+# custom browseURL implementation.
+.rs.setOption("browser", function(url)
+{
+   .Call("rs_browseURL", url, PACKAGE = "(embedding)")
+})
+```
+
