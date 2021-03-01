@@ -32,6 +32,12 @@ license: ''
 
 </div>
 
+<div id="problem" class="section level2">
+<h2>Problem</h2>
+<p>How to open a function’s help document in <em>browser</em> rather than <em>RStudio help panel</em> when pressing the F1 button?</p>
+</div>
+<div id="solution" class="section level2">
+<h2>Solution</h2>
 <p>On Mac:</p>
 <ol style="list-style-type: decimal">
 <li><p>open <code>/Applications/RStudio.app/Contents/Resources/R/Options.R</code></p></li>
@@ -42,3 +48,4 @@ license: ''
 {
    .Call(&quot;rs_browseURL&quot;, url, PACKAGE = &quot;(embedding)&quot;)
 })</code></pre>
+</div>

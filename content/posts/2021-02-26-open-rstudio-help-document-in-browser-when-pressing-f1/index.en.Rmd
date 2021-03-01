@@ -26,6 +26,12 @@ lightgallery: no
 license: ''
 ---
 
+## Problem
+
+How to open a function's help document in *browser* rather than *RStudio help panel* when pressing the F1 button?
+
+## Solution
+
 On Mac:
 
 1. open `/Applications/RStudio.app/Contents/Resources/R/Options.R`

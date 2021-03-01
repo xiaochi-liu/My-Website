@@ -1,0 +1,50 @@
+---
+title: RStudio Git Tab Repair After MacOS Upgrade
+author: Xiaochi Liu
+date: '2021-03-02'
+slug: []
+categories:
+  - Debugging
+tags:
+  - Debugging
+subtitle: ''
+description: ''
+summary: Recover the Git tab in RStudio after upgrading MacOS
+theme: classic
+upd: ''
+authorComment: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+resources:
+- name: featured-image
+  src: featured-image.png
+toc:
+  enable: yes
+math:
+  enable: yes
+lightgallery: no
+license: ''
+---
+
+## Problem
+
+Every time MacOS is upgraded, RStudio would lost its Git tab.
+
+## Solution
+
+There are two things you can try:
+
+1. You might need to re-accept the Xcode license, with:
+
+```
+sudo xcodebuild -license accept
+```
+
+2. You might need to re-install command line tools:
+
+```
+xcode-select --install
+```
+
+
+
