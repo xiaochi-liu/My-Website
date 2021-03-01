@@ -30,7 +30,7 @@ On Mac:
 
 1. open `/Applications/RStudio.app/Contents/Resources/R/Options.R`
 
-2. comment out the entry as follows:
+2. comment out the following entry:
 
 ```r
 # custom browseURL implementation.
