@@ -18,15 +18,15 @@ hiddenFromSearch: no
 resources:
 - name: featured-image
   src: featured-image.png
-# toc:
-#   enable: yes
+toc:
+  enable: yes
 math:
   enable: yes
 lightgallery: no
 license: ''
-output:
-  blogdown::html_page:
-    toc: true
+# output:
+#   blogdown::html_page:
+#     toc: true
 ---
 
 
