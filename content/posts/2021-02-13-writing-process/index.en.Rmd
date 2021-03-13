@@ -9,7 +9,7 @@ tags:
   - Scientific Writing
 subtitle: ''
 lastmod: '2021-02-13T22:28:04+11:00'
-description: ''
+description: 'Writing process for publication'
 summary: "Writing process for publication"
 theme: classic
 upd: ''

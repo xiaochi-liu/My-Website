@@ -8,7 +8,7 @@ categories:
 tags: 
   - Scientific Writing
 subtitle: ''
-description: ''
+description: 'How to write the Discussion Section of journal paper'
 summary: How to write the Discussion Section of journal paper
 theme: classic
 upd: ''
@@ -32,9 +32,9 @@ license: ''
 
 
 
-The main function of the Discussion section is to answer the question(s) posed in the Introduction.
+The main function of the Discussion section is to: 
 
-The discussion section will also
+* **answer the question(s) posed in the Introduction**
 
 * explain how the specific results support the answers
 
@@ -215,11 +215,7 @@ These measure may be employed in combination with behavioural adaptations such a
 
 ## Language features
 
-Need to pay attention to verb choice
-
-* Attitude to findings
-
-* Strength of claim
+Need to pay attention to verb choice: (1) attitude to findings; (2)strength of claim.
 
 A very common structure in Discussions: **main clause** (with projecting verb) + **that clause** (with another verb)
 
@@ -232,7 +228,16 @@ A very common structure in Discussions: **main clause** (with projecting verb) +
 * The presence of X *suggests* Y *may be stabilised* by Z.*
 
 
-Which verb is making the stronger claim?
+**Main** + **That** clause sentences, 2 opportunities to indicate the strength of your claim
+
+* Main verb (choice of verb, tense of verb)
+
+* Verb in that clause (tense, use of modal or not)
+
+It's important to match strength of sentences with the strength of the data / arguments
+
+
+In the **main clause**, which verb is making the stronger claim?
 
 * The results indicate/*establish* that there is a link...
 
@@ -249,25 +254,16 @@ Which verb is making the stronger claim?
 * Figure 12 depicts/*clarifies* the relationship between...
 
 
-**Main** + **That** clause sentences, 2 opportunities to indicate the strength of your claim
-
-* Main verb (choice of verb, tense of verb)
-
-* Verb in that clause (tense, use of modal or not)
-
-Important to match strength of sentences with the strength of the data / arguments
-
-Tense of Verb in the **that clause**
+In the **that clause**, the tense of Verb could be:
 
 * Simple past tense: applies to your study only
-    - It is possible that microbial activity caused some immobilization of labial soil phosphorous.
+    - It is possible that microbial activity *caused* some immobilization of labial soil phosphorous.
 
 * Simple present tense: general condition
-    - It is possible that microbial activity causes some immobilization of labial soil phosphorous.
+    - It is possible that microbial activity *causes* some immobilization of labial soil phosphorous.
 
 * It is also possible to substitute the that clause with a Noun Phrase
-    - Don't need to decide what tense to use in the that clause
-    - Previous studies have demonstrated that there is a positive relationship between propagule pressure and the establishment success of non native species.
+    - Previous studies have demonstrated that there is *a positive relationship* between propagule pressure and the establishment success of non native species.
 
 
 Softening claims, express probability by using
@@ -282,9 +278,9 @@ Softening claims, express probability by using
 Distance yourself from the claim by
 
 * using impersonal constructions
-    - seems/appears to/that...
-    - it has been said that...
-    - it is believed...
+    - seems/appears to/that ...
+    - it has been said that ...
+    - it is believed ...
 
 * attributing the belief to others
     - in the view of some experts...

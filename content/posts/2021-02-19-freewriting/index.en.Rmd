@@ -8,7 +8,7 @@ categories:
 tags: 
   - Scientific Writing
 subtitle: ''
-description: ''
+description: 'Write your science clearly, easly & with joy'
 summary: Write your science clearly, easly & with joy
 theme: classic
 upd: ''
