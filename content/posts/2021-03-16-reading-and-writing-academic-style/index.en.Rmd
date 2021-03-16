@@ -74,13 +74,14 @@ Ideas come from reading. Your writing starts with your reading
 
 * Read with purpose
 
-* Take purposeful notes
-    - [**Cornell Note Taking**](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b)
-        - chose the quotes or paraphrases or details you expect to include in your thesis
-        - put key words, identify themes, or recurrent patterns
-        - write sentences that summarise the page
+* [**Take purposeful notes**](https://thesiswhisperer.com/2012/12/12/turn-your-notes-into-writing-using-the-cornell-method/)
     - Take note and care of what verbs you use to describe the literature
     - The verb you use to describe someone else’s work indicates your feeling about the quality of the work
+    
+* [**Cornell Note Taking**](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b)
+    - just chose the quotes or paraphrases or details you expect to include in your thesis
+    - put key words, identify themes, or recurrent patterns
+    - write sentences that summarise the page
 
 
 ```{r echo=FALSE}
